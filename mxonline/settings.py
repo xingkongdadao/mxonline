@@ -41,6 +41,9 @@ INSTALLED_APPS = [
     'courses',
     'organization',
     'operation',
+    'xadmin',
+    'crispy_forms',
+
 ]
 
 AUTH_USER_MODEL = 'users.UserProfile'
