@@ -80,7 +80,8 @@ DATABASES = {
         'NAME': 'mxonline',
         'USER': 'lijiang',
         'PASSWORD': 'LIjiang20060707',
-        'HOST': '3306',
+        'HOST': '47.74.131.11',
+        'PORT': '3306',
     }
 }
 
